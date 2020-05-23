@@ -1,7 +1,7 @@
 # Insider Events
 Brings all the happenning events in your city at your finger tips :D
 
-# Tech
+### Tech
 * Kotlin
 * MVVM Architecture
 * Live Data
