@@ -1,4 +1,5 @@
 # Insider Events
+Makes your event search in your city hastle free :)
 
 # Tech
 * Kotlin
