@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Insider Events</string>
+
+    <string name="featured_events">Featured Events</string>
+
+    <string name="ok">OK</string>
+    <string name="loading_events">Loading events...</string>
+
+    <string name="oops">Ooopss..!</string>
+    <string name="data_load_fail_message">We could not load the data for you. Inconvenience regretted!</string>
+    <string name="retry">Retry</string>
+</resources>
