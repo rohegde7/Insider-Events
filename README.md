@@ -1,5 +1,5 @@
 # Insider Events
-Brings all the happenning events in your city at your finger tips :D
+Brings all the happening events in your city at your finger tips :D
 
 ### Tech
 * Kotlin
